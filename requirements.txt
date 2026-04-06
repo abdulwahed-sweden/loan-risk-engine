@@ -1,0 +1,2 @@
+clarax-core==0.3.1
+Faker==40.12.0
