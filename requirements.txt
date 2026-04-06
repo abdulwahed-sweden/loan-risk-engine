@@ -1,2 +1,2 @@
-clarax-core==1.0.0
+clarax-core==1.0.1
 Faker==40.12.0
